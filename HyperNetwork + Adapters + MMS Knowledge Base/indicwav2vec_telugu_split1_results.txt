@@ -1,0 +1,15 @@
+IndicWav2Vec-Telugu Results
+==============================================
+
+Dataset: 5percent
+Split: 1
+Language: telugu
+Overall EER: 23.08%
+Overall AUC: 0.8520
+Threshold: 0.9021
+Genuine mean: 0.9285 ± 0.0469
+Impostor mean: 0.8418 ± 0.0777
+
+Telugu-Specific Results:
+  EER: 0.42%
+  AUC: 0.6099

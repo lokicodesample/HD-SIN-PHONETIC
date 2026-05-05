@@ -1,0 +1,15 @@
+IndicWav2Vec-Tamil Results
+==============================================
+
+Dataset: 5percent
+Split: 1
+Language: tamil
+Overall EER: 22.94%
+Overall AUC: 0.8532
+Threshold: 0.9018
+Genuine mean: 0.9285 ± 0.0469
+Impostor mean: 0.8416 ± 0.0774
+
+Tamil-Specific Results:
+  EER: 0.46%
+  AUC: 0.5591

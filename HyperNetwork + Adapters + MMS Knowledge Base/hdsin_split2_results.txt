@@ -1,0 +1,46 @@
+============================================
+HD-SIN-PHONETIC EVALUATION RESULTS
+============================================
+
+Configuration:
+  Dataset: 5percent
+  Split: 2
+  Checkpoint: checkpoints/hdsin_split2_best.pt
+  Batch size: 16
+
+Overall Results:
+  EER: 10.16%
+  AUC: 0.9571
+  Threshold: 0.8399
+  
+  Genuine Scores: mean=0.9306 ± 0.1161
+  Impostor Scores: mean=0.0060 ± 0.5353
+  
+  Genuine Trials: 64315
+  Impostor Trials: 20380
+
+
+Per-Language Results:
+
+Tamil:
+  EER: 24.08%
+  Genuine mean: 0.9348
+  Impostor mean: 0.6095
+  Genuine trials: 17112
+  Impostor trials: 6540
+
+Telugu:
+  EER: 20.50%
+  Genuine mean: 0.8336
+  Impostor mean: 0.2638
+  Genuine trials: 9492
+  Impostor trials: 9980
+
+English:
+  EER: 32.33%
+  Genuine mean: 0.9559
+  Impostor mean: 0.8823
+  Genuine trials: 18402
+  Impostor trials: 3860
+
+============================================

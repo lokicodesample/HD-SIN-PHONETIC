@@ -1,0 +1,33 @@
+X-Vector Results
+=====================
+
+Dataset: 5percent
+Split: 2
+Overall EER: 25.80%
+AUC: 0.8317
+Threshold: 0.9337
+Genuine mean: 0.9451 ± 0.0485
+Impostor mean: 0.8708 ± 0.0784
+Genuine trials: 64315
+Impostor trials: 50000
+
+Per-Language Results:
+--------------------
+
+Tamil:
+  EER: 21.90%
+  AUC: 0.8399
+  Genuine mean: 0.9606
+  Impostor mean: 0.9186
+
+Telugu:
+  EER: 27.18%
+  AUC: 0.8133
+  Genuine mean: 0.9331
+  Impostor mean: 0.8593
+
+English:
+  EER: 29.22%
+  AUC: 0.7875
+  Genuine mean: 0.9436
+  Impostor mean: 0.8976

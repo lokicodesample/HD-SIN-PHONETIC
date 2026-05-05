@@ -1,0 +1,15 @@
+IndicWav2Vec-English Results
+==============================================
+
+Dataset: 5percent
+Split: 1
+Language: english
+Overall EER: 22.93%
+Overall AUC: 0.8537
+Threshold: 0.9018
+Genuine mean: 0.9285 ± 0.0469
+Impostor mean: 0.8415 ± 0.0773
+
+English-Specific Results:
+  EER: 0.45%
+  AUC: 0.5794

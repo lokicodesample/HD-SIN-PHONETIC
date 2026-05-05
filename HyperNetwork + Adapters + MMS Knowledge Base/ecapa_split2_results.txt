@@ -1,0 +1,33 @@
+ECAPA-TDNN Results
+=====================
+
+Dataset: 5percent
+Split: 2
+Overall EER: 8.83%
+AUC: 0.9664
+Threshold: 0.3293
+Genuine mean: 0.5617 ± 0.1569
+Impostor mean: 0.1620 ± 0.1163
+Genuine trials: 64315
+Impostor trials: 50000
+
+Per-Language Results:
+--------------------
+
+Tamil:
+  EER: 13.46%
+  AUC: 0.9348
+  Genuine mean: 0.5443
+  Impostor mean: 0.2139
+
+Telugu:
+  EER: 10.84%
+  AUC: 0.9548
+  Genuine mean: 0.5645
+  Impostor mean: 0.1760
+
+English:
+  EER: 7.88%
+  AUC: 0.9697
+  Genuine mean: 0.5716
+  Impostor mean: 0.1685

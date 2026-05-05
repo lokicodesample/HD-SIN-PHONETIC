@@ -1,0 +1,24 @@
+Raw HuBERT (No Fine-tuning) Results
+====================================
+
+Dataset: 5percent
+Split: 2
+Overall EER: 34.72%
+AUC: 0.7179
+Genuine mean: 0.9675 ± 0.0287
+Impostor mean: 0.9282 ± 0.0610
+
+Per-Language Results:
+--------------------
+
+Tamil:
+  EER: 41.74%
+  AUC: 0.6243
+
+Telugu:
+  EER: 38.20%
+  AUC: 0.6708
+
+English:
+  EER: 41.22%
+  AUC: 0.6237

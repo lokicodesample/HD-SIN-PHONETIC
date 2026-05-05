@@ -1,0 +1,30 @@
+Raw WavLM (No Fine-tuning) Results
+==================================
+
+Dataset: 5percent
+Split: 2
+Overall EER: 35.41%
+AUC: 0.7091
+Threshold: 0.7487
+Genuine mean: 0.7771 ± 0.1860
+Impostor mean: 0.5979 ± 0.2540
+Genuine trials: 64315
+Impostor trials: 50000
+
+Per-Language Results:
+--------------------
+
+Tamil:
+  EER: 41.01%
+  Genuine mean: 0.8607
+  Impostor mean: 0.7797
+
+Telugu:
+  EER: 32.18%
+  Genuine mean: 0.7452
+  Impostor mean: 0.5671
+
+English:
+  EER: 41.35%
+  Genuine mean: 0.7608
+  Impostor mean: 0.6827
