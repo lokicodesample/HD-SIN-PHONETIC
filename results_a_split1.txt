@@ -1,0 +1,10 @@
+Architecture A Results
+=====================
+Dataset: 5percent
+Split: 1
+EER: 32.80%
+AUC: 0.7384
+Genuine mean: 0.7720
+Impostor mean: 0.5813
+Genuine trials: 43054
+Impostor trials: 50000

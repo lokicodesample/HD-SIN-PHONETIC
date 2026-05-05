@@ -1,0 +1,30 @@
+WavLM + Classifier (Architecture A) Results
+==========================================
+
+Dataset: 5percent
+Split: 2
+Overall EER: 29.29%
+AUC: 0.7809
+Genuine mean: 0.7901 ± 0.1970
+Impostor mean: 0.5611 ± 0.2346
+
+Per-Language Results:
+--------------------
+
+Tamil:
+  EER: 32.71%
+  AUC: 0.7326
+  Genuine mean: 0.8539
+  Impostor mean: 0.7265
+
+Telugu:
+  EER: 32.61%
+  AUC: 0.7388
+  Genuine mean: 0.8088
+  Impostor mean: 0.6594
+
+English:
+  EER: 26.35%
+  AUC: 0.8131
+  Genuine mean: 0.7506
+  Impostor mean: 0.4686

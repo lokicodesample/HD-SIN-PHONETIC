@@ -1,0 +1,8 @@
+Architecture C Results
+=====================
+Dataset: 5percent
+Split: 2
+EER: 8.81%
+AUC: 0.9699
+Genuine mean: 0.9451
+Impostor mean: 0.0058
